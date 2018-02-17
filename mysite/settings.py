@@ -25,7 +25,7 @@ SECRET_KEY = '1k3$z%s9w+k4plyms1)^op!4rh+in(@cw2f=n37rs3oty7(hs!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<DarkYamato>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'darkyamato.pythonanywhere.com']
 
 
 # Application definition
